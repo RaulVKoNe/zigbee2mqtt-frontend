@@ -303,4 +303,12 @@
         "zigbee_manufacturer": "Fabricante Zigbee",
         "zigbee_model": "Modelo Zigbee "
     }
+    "zigbee": {
+        "mains_single_phase": "red monofásica",
+        "battery": "batería",
+        "power_level": "nivel de energía"
+    },
+    "settings": {
+        "availability": "Disponibilidad"
+    }    
 }
